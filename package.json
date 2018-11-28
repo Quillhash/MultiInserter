@@ -1,0 +1,20 @@
+{
+  "name": "multiinsert",
+  "version": "1.0.0",
+  "description": "A project to insert any number of values in mapping with lowest gas cost.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MultiInsert"
+  ],
+  "author": "Himanshu Chawla",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^3.0.26",
+    "ethjs-account": "^0.1.4",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.36"
+  }
+}
